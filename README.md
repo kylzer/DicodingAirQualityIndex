@@ -13,6 +13,10 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
+## Github Link
+[Github Link](https://github.com/kylzer/DicodingAirQualityIndex)
+
+
 ## Streamlit Link
 
 [Streamlit Dashboard](https://kylzerdicodingairqualityindex.streamlit.app/)
